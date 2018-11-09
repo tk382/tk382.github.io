@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tae Kim"
 title_separator          : ""
 name                     : &name "Tae Kim"
-description              : &description "Statistician, Data Scientist"
+description              : &description "CV_page"
 url                      : https://tk382.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tk382/tk382.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 author:
   name             : "Tae Kim"
   avatar           : "IMG_1695.jpg"
-  bio              : "A Ph.D Candidate in Statistics at the University of Chicago"
+  bio              : ""
   location         : "Chicago, IL, United States"
   employer         :
   googlescholar    : 
