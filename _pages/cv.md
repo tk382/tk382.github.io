@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Mathematics and Economics (Music Minor), Cornell University, 2013
-* M.S. in Statistics, University of Chicago, 2017
 * Ph.D in Statistics, University of Chicago, 2020 (expected)
+* M.S. in Statistics, University of Chicago, 2017
+* B.A. in Mathematics and Economics (Music Minor), Cornell University, 2013
 
 Awards
 ======
@@ -74,6 +74,31 @@ Skills
   * English
   * Korean
   * Spanish (basic)
+  
+  
+Courseworks
+====== 
+* Theoretical Statistics
+  * Distribution Theory (Stat 304)
+  * Mathematical Statistics 1 (Stat 301)
+  * Mathematical Statistics 2: Bayesian Analysis and Principles (Stat 302)
+  * Nonparametric Inference (Stat 374)
+  * Multiple Testing, Modern Inference, and Replicability (Stat 308)
+
+* Applied Statistics
+  * Applied Linear Statistical Methods (Stat 343)
+  * Design and Analysis of Experiments (Stat 345)
+  * Generalized Linear Models (Stat 347)
+  * Computational Biology: Models and Inference (Stat 354)
+  * Statistical Genetics (Stat 355)
+
+* Computational Statistics
+  * Mathematical Computation I: Matrix Computation (Stat 309)
+  * Mathematical Computation II: Nonlinear Optimization (Stat 310)
+  * Machine Learning (Stat 377)
+  * Machine Learning and Cancer (CMSC337)
+  * Machine Learning and Large-Scale Data Analysis (Stat 376)
+
   
 Teaching
 ======
