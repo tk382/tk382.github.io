@@ -54,9 +54,11 @@ Work experience
   
 Skills
 ======
-* Statistical Modeling and Analysis
-* Computation
-  * R
+* Statistical Modeling
+* Data Analysis
+* Machine Learning
+* Coding Languages
+  * R, Rcpp
   * Python
   * Matlab
   * Java
@@ -75,7 +77,7 @@ Skills
   
 Teaching
 ======
-I served as a course assistant in the following courses responsible for grading and answering the students' questions outside class. For Stat 234, I served as the lead TA who was in charge of overall organization of the course.
+I served as a course assistant in the following courses and was for grading and answering the students' questions. For Stat 234, I served as the lead TA who was in charge of overall organization of the course.
 * Stat 331 Sample Survey (Autumn 2016, Autumn 2017, Autumn 2018)
 * Stat 234 Statistical Models and Methods I (Spring 2016, Spring 2017)
 * Stat 226 Analysis of Categorical Data (Winter 2017)
