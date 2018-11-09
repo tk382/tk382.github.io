@@ -82,9 +82,6 @@ I served as a course assistant in the following courses responsible for grading 
 * Stat 200 Elementary Statistics (Winter 2015)
 
 
-
-
-
-Service and leadership
+Service
 ======
 * Rockefeller Chapel Choir, University of Chicago 2015 - Present
