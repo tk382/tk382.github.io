@@ -26,12 +26,18 @@ Research
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
 * Noisy Data Clustering, advised by Mengjie Chen
-  *design a similarity learning algorithm to cluster zero-inflated data with high noise and
+  * design a similarity learning algorithm to cluster zero-inflated data with high noise and
 apply to single-cell sequencing data
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
   * devise an alternating descent algorithm combining group fused lasso and mixed effects model to detect copy number alterations in cancer cells
 * Ancestry-eGenes, advised by Dan Nicolae
   * found genes that are differentially expressed based on local ancestry and genotypes for 44 human tissues in African Americans and European Americans; found an enrichment in the immunity-related region
+* Microbiome Data Analysis, consulting team leader
+  * Advised a manuscript revision in a medical journal for sound analysis of microbiome data, especially to model within and between group variance accounting for complex batch effects
+* Effects of Maternal Language Use in Children’s Brain Development, consulting team leader
+  * Led a consulting team to provide statistical analysis for complex correlated data for a psychologist’s post-doctoral project
+* Computing Variance across Large Data Sets, advised by Lars Vilhuber
+  * Manually implemented map-reduce for 3.3TB census data with several million time-series while avoiding memory issue and ensuring numerical stability
 
 
 Work experience
@@ -48,23 +54,37 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul></ul>
+* Statistical Modeling and Analysis
+* Computation
+  * R
+  * Python
+  * Matlab
+  * Java
+  * bash
+  * Julia (basic)
+* Other Technical Skills
+  * Git
+  * TeX
+  * Linux/Unix
+  * HTML
+  * MS Office
+* Language
+  * English
+  * Korean
+  * Spanish (basic)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+I served as a course assistant in the following courses responsible for grading and answering the students' questions outside class. For Stat 234, I served as the lead TA who was in charge of overall organization of the course.
+* Stat 331 Sample Survey (Autumn 2016, Autumn 2017, Autumn 2018)
+* Stat 234 Statistical Models and Methods I (Spring 2016, Spring 2017)
+* Stat 226 Analysis of Categorical Data (Winter 2017)
+* Stat 200 Elementary Statistics (Winter 2015)
+
+
+
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Rockefeller Chapel Choir, University of Chicago 2015 - Present
