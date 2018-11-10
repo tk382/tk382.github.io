@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, University of Chicago, 2020 (expected)
+* Ph.D. in Statistics, University of Chicago, 2020 (expected)
 * M.S. in Statistics, University of Chicago, 2017
 * B.A. in Mathematics and Economics (Music Minor), Cornell University, 2013
 
