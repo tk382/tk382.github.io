@@ -9,19 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+1. [Education](#edu)
+2. [Awards](#awa)
+3. [Research](#res)
+4. [Work Experience](#wor)
+5. [Skills] (#ski)
+6. [Courseworks] (#cou)
+7. [Teaching] (#tea)
+8. [Service] (#ser)
+
+
+Education <a name="edu"></a>
 ======
 * Ph.D. in Statistics, University of Chicago, 2020 (expected)
 * M.S. in Statistics, University of Chicago, 2017
 * B.A. in Mathematics and Economics (Music Minor), Cornell University, 2013
 
-Awards
+Awards <a name="awa"></a>
 ======
 * Davis Wallace Award for Applied Statistics, 2018
 * Scholarship for Summer Institutes at the University of Washington in Seattle, 2017
 
 
-Research
+Research <a name="res"></a>
 ======
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
@@ -40,7 +50,7 @@ apply to single-cell sequencing data
   * Manually implemented map-reduce for 3.3TB census data with several million time-series while avoiding memory issue and ensuring numerical stability
 
 
-Work experience
+Work experience <a name="wor"></a>
 ======
 * Hanwha Life Insurance, 2013 - 2014 
   * Actuarial Associate
@@ -52,7 +62,7 @@ Work experience
   * taught SAT, ACT, and TOEFL
   * developed strategy textbooks for the new SAT
   
-Skills
+Skills <a name="ski"></a>
 ======
 * Statistical Modeling
 * Data Analysis
@@ -76,7 +86,7 @@ Skills
   * Spanish (basic)
   
   
-Courseworks
+Courseworks <a name="cou"></a>
 ====== 
 * Theoretical Statistics
   * Distribution Theory (STAT 304)
@@ -100,7 +110,7 @@ Courseworks
   * Machine Learning and Large-Scale Data Analysis (STAT 376)
 
   
-Teaching
+Teaching <a name="tea"></a>
 ======
 I served as a course assistant in Stat 331, Stat 226, and Stat 200 and was in charge of grading and answering the students' questions. For Stat 234, I served as the lead TA who was in charge of the overall organization of the course.
 * Stat 331 Sample Survey (Autumn 2016, Autumn 2017, Autumn 2018)
@@ -109,6 +119,6 @@ I served as a course assistant in Stat 331, Stat 226, and Stat 200 and was in ch
 * Stat 200 Elementary Statistics (Winter 2015)
 
 
-Service
+Service <a name="ser"></a>
 ======
 * Rockefeller Chapel Choir, 2015 - Present
