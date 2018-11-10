@@ -44,6 +44,7 @@ apply to single-cell sequencing data
   * found genes that are differentially expressed based on local ancestry and genotypes for 44 human tissues in African Americans and European Americans; found an enrichment in the immunity-related region
 * Microbiome Data Analysis, consulting team leader
   * Advised a manuscript revision in a medical journal for sound analysis of microbiome data, especially to model within and between group variance accounting for complex batch effects
+  * [Miyoshi, Jun, et al. "Minimizing confounders and increasing data quality in murine models for studies of the gut microbiome." PeerJ 6 (2018): e5166.](https://peerj.com/articles/5166/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
 * Effects of Maternal Language Use in Children’s Brain Development, consulting team leader
   * Led a consulting team to provide statistical analysis for complex correlated data for a psychologist’s post-doctoral project
 * Computing Variance across Large Data Sets, advised by Lars Vilhuber
