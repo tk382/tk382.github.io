@@ -79,25 +79,25 @@ Skills
 Courseworks
 ====== 
 * Theoretical Statistics
-  * Distribution Theory (Stat 304)
-  * Mathematical Statistics 1 (Stat 301)
-  * Mathematical Statistics 2: Bayesian Analysis and Principles (Stat 302)
-  * Nonparametric Inference (Stat 374)
-  * Multiple Testing, Modern Inference, and Replicability (Stat 308)
+  * Distribution Theory (STAT 304)
+  * Mathematical Statistics 1 (STAT 301)
+  * Mathematical Statistics 2: Bayesian Analysis and Principles (STAT 302)
+  * Nonparametric Inference (STAT 374)
+  * Multiple Testing, Modern Inference, and Replicability (STAT 308)
 
 * Applied Statistics
-  * Applied Linear Statistical Methods (Stat 343)
-  * Design and Analysis of Experiments (Stat 345)
-  * Generalized Linear Models (Stat 347)
-  * Computational Biology: Models and Inference (Stat 354)
-  * Statistical Genetics (Stat 355)
+  * Applied Linear Statistical Methods (STAT 343)
+  * Design and Analysis of Experiments (STAT 345)
+  * Generalized Linear Models (STAT 347)
+  * Computational Biology: Models and Inference (STAT 354)
+  * Statistical Genetics (STAT 355)
 
 * Computational Statistics
-  * Mathematical Computation I: Matrix Computation (Stat 309)
-  * Mathematical Computation II: Nonlinear Optimization (Stat 310)
-  * Machine Learning (Stat 377)
-  * Machine Learning and Cancer (CMSC337)
-  * Machine Learning and Large-Scale Data Analysis (Stat 376)
+  * Mathematical Computation I: Matrix Computation (STAT 309)
+  * Mathematical Computation II: Nonlinear Optimization (STAT 310)
+  * Machine Learning (STAT 377)
+  * Machine Learning and Cancer (CMSC 337)
+  * Machine Learning and Large-Scale Data Analysis (STAT 376)
 
   
 Teaching
