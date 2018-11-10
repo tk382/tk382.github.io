@@ -13,10 +13,10 @@ redirect_from:
 2. [Awards](#awa)
 3. [Research](#res)
 4. [Work Experience](#wor)
-5. [Skills] (#ski)
-6. [Courseworks] (#cou)
-7. [Teaching] (#tea)
-8. [Service] (#ser)
+5. [Skills](#ski)
+5. [Courseworks](#cou)
+7. [Teaching](#tea)
+8. [Service](#ser)
 
 
 Education <a name="edu"></a>
