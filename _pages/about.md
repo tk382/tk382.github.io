@@ -14,5 +14,5 @@ I am a Ph.D candidate in Statistics at the University of Chicago, expecting to g
 
 Research Interests
 ====
-I am interested in applied data analysis and methodology developments. My current research focuses on applications to biology including DNA-seq, RNA-seq. and scRNA-seq. Data sets in biology pose difficult statistical challenges because they are often high dimensional, intricately correlated, and incomplete. My role as a statistician is to develop methods to learn as much meaningful information from these data sets. My methods range from Bayesian variable selection to network analysis and similarity learning. I am also interested in the application of machine learning and predictive modeling in genomics.
+I work on applied data analysis and methodology developments. My current research focuses on applications to biology including DNA-seq, RNA-seq. and scRNA-seq. Data sets in biology pose difficult statistical challenges because they are often high dimensional, intricately correlated, and incomplete. My role as a statistician is to develop methods to learn as much meaningful information from these data sets. My methods range from Bayesian variable selection to network analysis and similarity learning. I am also interested in the application of machine learning and predictive modeling in genomics.
 
