@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ====
-I am a Ph.D candidate in Statistics at the University of Chicago, expecting to graduate in Spring 2020. Before starting graduate school, I spent two years in South Korea, one year working at an insurance firm as an actuarial associate and another year teaching SAT and TOEFL to high school students. At the same time, I independently worked on a project at Labor Dynamics Institute at Cornell remotely. For my undergraduate studies, I majored in mathematics and economics and minored in music at Cornell University. 
+I am a Ph.D candidate in Statistics at the University of Chicago, expecting to graduate in Spring 2020. Before starting graduate school, I spent two years in South Korea, one year working at an insurance firm as an actuarial associate and another year teaching high school students. At the same time, I independently worked on a large data wrangling project at Labor Dynamics Institute at Cornell remotely. For my undergraduate studies, I majored in mathematics and economics and minored in music at Cornell University. 
 
 Research Interests
 ====
