@@ -12,7 +12,7 @@ redirect_from:
 Tae Kim
 ======
 * tk382@uchicago.edu
-* Room 203 / 204
-George Herbert Jones Laboratory
-5747 S. Ellis Avenue
-Chicago, IL 60637
+* Room 203 / 204<br/>
+George Herbert Jones Laboratory<br/>
+5747 S. Ellis Avenue<br/>
+Chicago, IL 60637<br/>
