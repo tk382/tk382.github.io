@@ -121,4 +121,5 @@ I served as a course assistant in Stat 331, Stat 226, and Stat 200 and was in ch
 
 Service <a name="ser"></a>
 ======
+* Cornell University Chorus, 2011 - 2013
 * Rockefeller Chapel Choir, 2015 - Present
