@@ -115,7 +115,7 @@ Teaching <a name="tea"></a>
 I served as a course assistant in Stat 331, Stat 226, and Stat 200 and was in charge of grading and answering the students' questions. For Stat 234, I served as the lead TA who was in charge of the overall organization of the course.
 * Stat 331 Sample Survey (Autumn 2016, Autumn 2017, Autumn 2018)
 * Stat 234 Statistical Models and Methods I (Spring 2016, Spring 2017)
-* Stat 226 Analysis of Categorical Data (Winter 2017)
+* Stat 226 Analysis of Categorical Data (Winter 2017, Winter 2019)
 * Stat 200 Elementary Statistics (Winter 2015)
 
 
