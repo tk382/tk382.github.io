@@ -41,7 +41,7 @@ Research <a name="res"></a>
   * R package and Tutorial: [SCNoisyClustering](https://tk382.github.io/SCNoisyClustering/index.html)
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
   * devise an alternating descent algorithm combining group fused lasso and mixed effects model to detect copy number alterations in cancer cells
-  * R package: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift)
+  * R package: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift/blob/master/analysis/writeup/paper/paper.pdf)
 * Ancestry-eGenes, advised by Dan Nicolae
   * found genes that are differentially expressed based on local ancestry and genotypes for 44 human tissues in African Americans and European Americans; found an enrichment in the immunity-related region
 * Microbiome Data Analysis, consulting team leader
