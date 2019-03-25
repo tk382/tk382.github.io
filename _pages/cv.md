@@ -35,9 +35,10 @@ Research <a name="res"></a>
 ======
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
+  * working paper: https://github.com/tk382/localAnc/blob/master/later_edit.pdf
 * Noisy Data Clustering, advised by Mengjie Chen
-  * design a similarity learning algorithm to cluster zero-inflated data with high noise and
-apply to single-cell sequencing data
+  * design a similarity learning algorithm to cluster zero-inflated data with high noise and apply to single-cell sequencing data
+  * R package and Tutorial: https://tk382.github.io/SCNoisyClustering/index.html
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
   * devise an alternating descent algorithm combining group fused lasso and mixed effects model to detect copy number alterations in cancer cells
 * Ancestry-eGenes, advised by Dan Nicolae
