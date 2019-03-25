@@ -35,12 +35,13 @@ Research <a name="res"></a>
 ======
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
-  * working paper: https://github.com/tk382/localAnc/blob/master/later_edit.pdf
+  * working paper: [Multivariate Bayesian Analysis with Incomplete Data: Application to Local Ancestry Effects on admixed Transcriptome](https://github.com/tk382/localAnc/blob/master/later_edit.pdf)
 * Noisy Data Clustering, advised by Mengjie Chen
   * design a similarity learning algorithm to cluster zero-inflated data with high noise and apply to single-cell sequencing data
-  * R package and Tutorial: https://tk382.github.io/SCNoisyClustering/index.html
+  * R package and Tutorial: [SCNoisyClustering](https://tk382.github.io/SCNoisyClustering/index.html)
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
   * devise an alternating descent algorithm combining group fused lasso and mixed effects model to detect copy number alterations in cancer cells
+  * R package: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift)
 * Ancestry-eGenes, advised by Dan Nicolae
   * found genes that are differentially expressed based on local ancestry and genotypes for 44 human tissues in African Americans and European Americans; found an enrichment in the immunity-related region
 * Microbiome Data Analysis, consulting team leader
