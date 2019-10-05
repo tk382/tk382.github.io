@@ -22,7 +22,6 @@ redirect_from:
 Education <a name="edu"></a>
 ======
 * Ph.D. in Statistics, University of Chicago, 2020 (expected)
-* M.S. in Statistics, University of Chicago, 2017
 * B.A. in Mathematics and Economics (Music Minor), Cornell University, 2013
 
 Awards <a name="awa"></a>
@@ -33,6 +32,9 @@ Awards <a name="awa"></a>
 
 Research <a name="res"></a>
 ======
+* Dynamic Co-expression Network Analysis, advised by Dan Nicolae
+  * Design and develop statistical test with sound properties to test if the global structure of gene co-expression network changes across a continuous covariate
+  * Applied to GTEx data to analyze how the co-expression network changes across the proportion of African and European genome in African American samples
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
   * working paper: [Multivariate Bayesian Analysis with Incomplete Data: Application to Local Ancestry Effects on admixed Transcriptome](https://github.com/tk382/localAnc/blob/master/later_edit.pdf)
@@ -54,6 +56,11 @@ Research <a name="res"></a>
 
 Work experience <a name="wor"></a>
 ======
+* Zurich North America, 2019 
+  * Data Scientist Summer Intern
+  * Built a neural network model to predict performance of winter wheat yields for the Multi-peril Crops Insurance that reduced RMSE by 10% compared to the existing GBM model
+  * Conducted extensive research toe valuate the current state of the data for explaining the variability of crop yields
+
 * Hanwha Life Insurance, 2013 - 2014 
   * Actuarial Associate
   * participated as part of the product design team
