@@ -35,7 +35,7 @@ Research <a name="res"></a>
 * Dynamic Co-expression Network Analysis, advised by Dan Nicolae
   * Design and develop statistical test with sound properties to test if the global structure of gene co-expression network changes across a continuous covariate
   * Applied to GTEx data to analyze how the co-expression network changes across the proportion of African and European genome in African American samples
-  * Working paper: [Dynamic Gene Coexpression Analysis with Correlation Modeling](https://github.com/tk382/localAnc/blob/master/later_edit.pdf)
+  * Working paper: [Dynamic Gene Coexpression Analysis with Correlation Modeling](https://github.com/tk382/diffNet/blob/master/Dynamic_Gene_Co_expression_Analysis_with_Correlation_Modeling__8072_.pdf)
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
   * working paper: [Multivariate Bayesian Analysis with Incomplete Data: Application to Local Ancestry Effects on admixed Transcriptome](https://github.com/tk382/localAnc/blob/master/later_edit.pdf)
