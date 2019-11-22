@@ -54,7 +54,6 @@ Research <a name="res"></a>
   * design a similarity learning algorithm to cluster zero-inflated data with high noise and apply to single-cell sequencing data
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
   * devise an alternating descent algorithm combining group fused lasso and mixed effects model to detect copy number alterations in cancer cells
-  * 
 * Ancestry-eGenes, advised by Dan Nicolae
   * found genes that are differentially expressed based on local ancestry and genotypes for 44 human tissues in African Americans and European Americans; found an enrichment in the immunity-related region
 * Microbiome Data Analysis, consulting team leader
