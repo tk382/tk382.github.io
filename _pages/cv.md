@@ -30,26 +30,35 @@ Awards <a name="awa"></a>
 * Scholarship for Summer Institutes at the University of Washington in Seattle, 2017
 
 
+Working Papers <a name="wor"></a>
+======
+* [Dynamic Gene Coexpression Analysis with Correlation Modeling](https://github.com/tk382/diffNet/blob/master/most_recent.pdf) - Kim, T. and Nicolae, D.
+* [Multivariate Bayesian Analysis with Incomplete Data: Application to Local Ancestry Effects on admixed Transcriptome](https://github.com/tk382/localAnc/blob/master/later_edit.pdf) - Kim, T. and Nicolae, D.
+* [Minimizing confounders and increasing data quality in murine models for studies of the gut microbiome](https://peerj.com/articles/5166/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD) (Miyoshi, J. et al.)
+
+Softwares <a name="sof"></a>
+======
+* Differential Network Analysis: [diffNet](tk382.github.io/diffNet)
+* Multivariate Missing Bayesian Variable Selection: [MMVBVS](tk382.github.io/MMVBVS)
+* Clustering Noisy Single Cell Data: [SCNoisyClustering](https://tk382.github.io/SCNoisyClustering)
+* Change Point Analysis for Copy Number Variation: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift/blob/master/analysis/writeup/paper/paper.pdf)
+
 Research <a name="res"></a>
 ======
 * Dynamic Co-expression Network Analysis, advised by Dan Nicolae
   * Design and develop statistical test with sound properties to test if the global structure of gene co-expression network changes across a continuous covariate
   * Applied to GTEx data to analyze how the co-expression network changes across the proportion of African and European genome in African American samples
-  * Working paper: [Dynamic Gene Coexpression Analysis with Correlation Modeling](https://github.com/tk382/diffNet/blob/master/most_recent.pdf)
 * Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
   * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
-  * working paper: [Multivariate Bayesian Analysis with Incomplete Data: Application to Local Ancestry Effects on admixed Transcriptome](https://github.com/tk382/localAnc/blob/master/later_edit.pdf)
-  * R package: [MMVBVS](tk382.github.io/MMVBVS)
 * Noisy Data Clustering, advised by Mengjie Chen
   * design a similarity learning algorithm to cluster zero-inflated data with high noise and apply to single-cell sequencing data
-  * R package and Tutorial: [SCNoisyClustering](https://tk382.github.io/SCNoisyClustering/index.html)
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
   * devise an alternating descent algorithm combining group fused lasso and mixed effects model to detect copy number alterations in cancer cells
-  * R package: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift/blob/master/analysis/writeup/paper/paper.pdf)
+  * 
 * Ancestry-eGenes, advised by Dan Nicolae
   * found genes that are differentially expressed based on local ancestry and genotypes for 44 human tissues in African Americans and European Americans; found an enrichment in the immunity-related region
 * Microbiome Data Analysis, consulting team leader
-  * Advised a manuscript revision in a medical journal for sound analysis of microbiome data, especially to model within and between group variance accounting for complex batch effects [[link]](https://peerj.com/articles/5166/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
+  * Advised a manuscript revision in a medical journal for sound analysis of microbiome data, especially to model within and between group variance accounting for complex batch effects 
 * Effects of Maternal Language Use in Children’s Brain Development, consulting team leader
   * Led a consulting team to provide statistical analysis for complex correlated data for a psychologist’s post-doctoral project
 * Computing Variance across Large Data Sets, advised by Lars Vilhuber
