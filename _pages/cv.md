@@ -38,11 +38,19 @@ Research <a name="wor"></a>
 
 Softwares <a name="sof"></a>
 ======
-* HIPPO (Heterogeneity Inspired Pre-Processing Tool), available in BioConductor [HIPPO](https://bioconductor.org/packages/release/bioc/html/HIPPO.html)
-* Multivariate Missing Bayesian Variable Selection, available in CRAN [MMVBVS](https://cran.r-project.org/web/packages/MMVBVS/index.html)
+* HIPPO (Heterogeneity Inspired Pre-Processing Tool), available in BioConductor: [HIPPO](https://bioconductor.org/packages/release/bioc/html/HIPPO.html)
+* Multivariate Missing Bayesian Variable Selection, available in CRAN: [MMVBVS](https://cran.r-project.org/web/packages/MMVBVS/index.html)
 * Differential Network Analysis: [diffNet](tk382.github.io/diffNet)
 * Clustering Noisy Single Cell Data: [SCNoisyClustering](https://tk382.github.io/SCNoisyClustering)
 * Change Point Analysis for Copy Number Variation: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift/blob/master/analysis/writeup/paper/paper.pdf)
+
+
+Talks <a name="res"></a>
+=====
+* University of Chicago Consulting Seminar
+  * Application of Neural Networks to Predicting Winter Wheat Yield
+* University of Chicago, Medical School, Section of Genetic Medicine
+  * Autoencoders with Parametric Noise Models for De-Noising scRNA-seq Data
 
 Other Projects <a name="res"></a>
 ======
