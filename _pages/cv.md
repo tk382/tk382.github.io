@@ -119,7 +119,7 @@ I served as a course assistant in Stat 331, Stat 226, and Stat 200 and was in ch
 * Stat 226 Analysis of Categorical Data (Winter 2017, Winter 2019)
 * Stat 200 Elementary Statistics (Winter 2015)
 
-Service <a name="ser"></a>
+Other Activities <a name="ser"></a>
 ======
 * Cornell University Chorus, 2011 - 2013
 * Rockefeller Chapel Choir, 2015 - Present
