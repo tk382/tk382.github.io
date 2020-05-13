@@ -29,8 +29,9 @@ Awards <a name="awa"></a>
 * Scholarship for Summer Institutes at the University of Washington in Seattle, 2017
 
 
-Working Papers <a name="wor"></a>
+Research <a name="wor"></a>
 ======
+* [De-mystifying Drop-outs in Single Cell UMI Data](https://www.biorxiv.org/content/10.1101/2020.03.31.018911v1) - Kim, T. Zhou, X. and Chen, M. 
 * [Dynamic Gene Coexpression Analysis with Correlation Modeling](https://github.com/tk382/diffNet/blob/master/most_recent.pdf) - Kim, T. and Nicolae, D.
 * [Multivariate Bayesian Analysis with Incomplete Data: Application to Local Ancestry Effects on admixed Transcriptome](https://github.com/tk382/localAnc/blob/master/later_edit.pdf) - Kim, T. and Nicolae, D.
 * [Minimizing confounders and increasing data quality in murine models for studies of the gut microbiome](https://peerj.com/articles/5166/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD) - Miyoshi, J. et al.
