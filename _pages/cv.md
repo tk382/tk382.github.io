@@ -43,13 +43,8 @@ Softwares <a name="sof"></a>
 * Clustering Noisy Single Cell Data: [SCNoisyClustering](https://tk382.github.io/SCNoisyClustering)
 * Change Point Analysis for Copy Number Variation: [CopyNumberCellShift](https://github.com/tk382/CopyNumberCellShift/blob/master/analysis/writeup/paper/paper.pdf)
 
-Research <a name="res"></a>
+Other Projects <a name="res"></a>
 ======
-* Dynamic Co-expression Network Analysis, advised by Dan Nicolae
-  * Design and develop statistical test with sound properties to test if the global structure of gene co-expression network changes across a continuous covariate
-  * Applied to GTEx data to analyze how the co-expression network changes across the proportion of African and European genome in African American samples
-* Multi-tissue Gene Expression Analysis, advised by Dan Nicolae
-  * employ Bayesian hierarchical model with EM algorithm and MCMC that circumvents missing value issues and accounts for complex variance structure
 * Noisy Data Clustering, advised by Mengjie Chen
   * design a similarity learning algorithm to cluster zero-inflated data with high noise and apply to single-cell sequencing data
 * Copy Number Variation Change Point Analysis, advised by Mengjie Chen
@@ -83,26 +78,13 @@ Work experience <a name="wor"></a>
   
 Skills <a name="ski"></a>
 ======
-* Statistical Modeling
-* Data Analysis
-* Machine Learning
+* Statistical Modeling and Inference
 * Coding Languages
-  * R, Rcpp
-  * Python
-  * Matlab
-  * Java
-  * bash
-  * Julia (basic)
+  * R, Rcpp, Python, Matlab, Java, bash, Julia (basic)
 * Other Technical Skills
-  * Git
-  * TeX
-  * Linux/Unix
-  * HTML
-  * MS Office
+  * Git, TeX, Linux/Unix, HTML, MS Office
 * Language
-  * English
-  * Korean
-  * Spanish (basic)
+  * English, Korean
   
   
 Courseworks <a name="cou"></a>
@@ -136,7 +118,6 @@ I served as a course assistant in Stat 331, Stat 226, and Stat 200 and was in ch
 * Stat 234 Statistical Models and Methods I (Spring 2016, Spring 2017)
 * Stat 226 Analysis of Categorical Data (Winter 2017, Winter 2019)
 * Stat 200 Elementary Statistics (Winter 2015)
-
 
 Service <a name="ser"></a>
 ======
